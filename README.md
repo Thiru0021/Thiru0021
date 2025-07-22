@@ -1,12 +1,17 @@
-<!-- Typing Header -->
+<!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=800&height=80&lines=Welcome+to+my+GitHub!;I'm+Thirumalai+R+%F0%9F%91%8B;Final-year+AI+%26+ML+Student;Full+Stack+Dev+%7C+UI%2FUX+Designer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=800&height=80&lines=Welcome+to+my+GitHub!;I'm+Thirumalai+R+%F0%9F%91%8B;Final-year+AI+%26+ML+Student;Full+Stack+Developer+%7C+UI%2FUX+Designer" alt="Typing Animation" />
 </h1>
 
+---
+
+## 🧑‍💻 About Me
+
 <p align="center">
-  🎓 <b>Final-year B.Tech in Artificial Intelligence & Machine Learning</b><br>
-  💻 Passionate about solving real-world problems through clean code & creative design<br>
-  🧠 Focused on building full-stack apps with a smart backend and aesthetic frontend
+Hi! I'm <strong>Thirumalai R</strong> — a final-year B.Tech student specializing in <strong>Artificial Intelligence & Machine Learning</strong> with a passion for solving real-world problems through powerful web applications.<br><br>
+I enjoy building clean and responsive user interfaces backed by smart, scalable logic. I blend creativity with logic — whether it's building dashboards, designing user flows, or automating tasks.
+<br><br>
+If it involves <b>design, logic, and impact</b> — I’m in. 🚀
 </p>
 
 ---
@@ -14,76 +19,60 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
 </p>
-
-<p align="center">
-  <b>Java</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>C</b>
-</p>
+<p align="center"><b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>C</b></p>
 
 ---
 
 ### 🌐 Frontend Development
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" title="Tailwind CSS"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="45" title="Bootstrap"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
 </p>
-
 <p align="center">
-  <b>HTML</b>&nbsp;&nbsp; <b>CSS</b>&nbsp;&nbsp; <b>Tailwind</b>&nbsp;&nbsp; <b>Bootstrap</b>&nbsp;&nbsp; <b>JavaScript</b>&nbsp;&nbsp; <b>React</b>
+<b>HTML</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>CSS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Tailwind</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Bootstrap</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>React</b>
 </p>
 
 ---
 
 ### 🔧 Backend Development
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" title="Flask"/>
 </p>
-
 <p align="center">
-  <b>Node.js</b>&nbsp;&nbsp; <b>Express.js</b>&nbsp;&nbsp; <b>Django</b>&nbsp;&nbsp; <b>Flask</b>
+<b>Node.js</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Express</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Django</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Flask</b>
 </p>
 
 ---
 
 ### 🗄 Databases
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
 </p>
-
-<p align="center">
-  <b>MySQL</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>MongoDB</b>
-</p>
+<p align="center"><b>MySQL</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>MongoDB</b></p>
 
 ---
 
 ### 🎨 UI/UX & Tools
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" title="Canva"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" title="Canva"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
 </p>
-
-<p align="center">
-  <b>Figma</b>&nbsp;&nbsp; <b>Canva</b>&nbsp;&nbsp; <b>Git</b>&nbsp;&nbsp; <b>GitHub</b>
-</p>
+<p align="center"><b>Figma</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Canva</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>GitHub</b></p>
 
 ---
 
