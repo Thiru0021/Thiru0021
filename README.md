@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-<p align="center">
+<p align="left">
 Hi! I'm <strong>Thirumalai R</strong> — a final-year B.Tech student specializing in <strong>Artificial Intelligence & Machine Learning</strong> with a passion for solving real-world problems through powerful web applications.<br><br>
 I enjoy building clean and responsive user interfaces backed by smart, scalable logic. I blend creativity with logic — whether it's building dashboards, designing user flows, or automating tasks.
 <br><br>
