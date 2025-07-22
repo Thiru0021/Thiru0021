@@ -20,59 +20,64 @@ If it involves <b>design, logic, and impact</b> — I’m in. 🚀
 
 ### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" title="Java"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" title="Python"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="38" title="C"/>
 </p>
-<p align="center"><b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>C</b></p>
+<p align="center">
+  Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
+</p>
 
 ---
 
 ### 🌐 Frontend Development
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" title="Tailwind CSS"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="45" title="Bootstrap"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" title="HTML"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" title="CSS"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="38" title="Tailwind"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="38" title="Bootstrap"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" title="React"/>
 </p>
 <p align="center">
-<b>HTML</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>CSS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Tailwind</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Bootstrap</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>React</b>
+  HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tailwind&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React
 </p>
 
 ---
 
 ### 🔧 Backend Development
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" title="Node.js"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="38" title="Django"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="38" title="Flask"/>
 </p>
 <p align="center">
-<b>Node.js</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Express</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Django</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Flask</b>
+  Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Django&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flask
 </p>
 
 ---
 
 ### 🗄 Databases
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" title="MySQL"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" title="MongoDB"/>
 </p>
-<p align="center"><b>MySQL</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>MongoDB</b></p>
+<p align="center">
+  MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MongoDB
+</p>
 
 ---
 
 ### 🎨 UI/UX & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" title="Canva"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" title="Figma"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="38" title="Canva"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" title="GitHub"/>
 </p>
-<p align="center"><b>Figma</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Canva</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>GitHub</b></p>
+<p align="center">
+  Figma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Canva&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub
+</p>
 
 ---
 
