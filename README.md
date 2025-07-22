@@ -1,7 +1,8 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=800&height=80&lines=Welcome+to+my+GitHub!;I'm+Thirumalai+R+%F0%9F%91%8B;Final-year+AI+%26+ML+Student;Full+Stack+Developer+%7C+UI%2FUX+Designer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Thirumalai+R.;Software+Engineer+%7C+AI+%26+Full+Stack+Developer;Building+Smart+Tech+With+Code+%26+Design" alt="Typing SVG" />
 </h1>
+
 
 ---
 
